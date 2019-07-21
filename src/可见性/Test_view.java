@@ -41,6 +41,6 @@ public class Test_view {
    }
 
     public static void main(String[] args) {
-        calc();
+        System.out.println(calc());
     }
 }
